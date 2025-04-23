@@ -141,14 +141,15 @@ urlpatterns = [
     path('areaofrightcylinder/',views.rightcylinder,name="areaofrightcylinder"),
     path('',views.rightcylinder,name="areaofrightcylinderroot")
 ]
+```
 
 ## SERVER SIDE PROCESSING:
 
-![backend](<Screenshot 2025-04-23 162011.png>)
+![backend](backend.png)
 
-## HOMEPAGE:
+### HOMEPAGE:
 
-![homepage](<Screenshot 2025-04-23 161959.png>)
+![homepage](homepage.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
